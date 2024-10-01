@@ -1,0 +1,1 @@
+Microservice 2: A service that pulls messages from the SQS queue and uploads them to an S3 bucket.
